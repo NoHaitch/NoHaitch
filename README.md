@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
+![Banner](https://github.com/NoHaitch/NoHaitch/assets/72493275/701d0056-50cd-4bff-9a67-f1252806fb59)
 
 <h2> Hey there! I'm Francisco call me Ciko.</h2>
 
