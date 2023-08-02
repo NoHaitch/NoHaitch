@@ -11,7 +11,7 @@
 - ✍️ &nbsp; Pursuing Photography and Game Dev as hobbies/side hustles.
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/NoHaitch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact" />
 </a>
