@@ -8,11 +8,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and amazing solutions of real life problems.
+- 🎓 &nbsp; Studying Information Engineering at Bandung Institute of Technology (Institut Teknologi Bandung or ITB) in Indonesia
+- 💼 &nbsp; Undegraduate looking for expirience
+- 🌱 &nbsp; Learning more about Back-end, Competitive Programming and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Photography and Game Dev as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
