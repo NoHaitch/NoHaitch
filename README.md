@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and amazing solutions of real life problems.
-- 🎓 &nbsp; Studying Information Engineering at Bandung Institute of Technology (Institut Teknologi Bandung or ITB) in Indonesia
+- 🎓 &nbsp; Studying Informatics at Bandung Institute of Technology (Institut Teknologi Bandung or ITB) in Indonesia
 - 💼 &nbsp; Undegraduate looking for experience
 - 🌱 &nbsp; Learning more about Back-end, Competitive Programming and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Photography and Game Dev as hobbies/side hustles.
