@@ -12,6 +12,7 @@
 <br/>
 
 <a href="https://github.com/NoHaitch">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoHaitch&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact" />
 </a>
