@@ -16,7 +16,7 @@
   <a href="https://github.com/NoHaitch">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoHaitch&theme=tokyonight" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=Pengkom_22" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=Pengkom_2022" />
   </a>
   <h1>Social</h1>
   </br>
