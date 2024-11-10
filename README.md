@@ -9,7 +9,12 @@
 - 💼 &nbsp; Undegraduate looking for experience
 - 🌱 &nbsp; Learning more about Back-end, Competitive Programming and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Photography and Game Dev as hobbies/side hustles.
+
 <br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <h1>STATS</h1>
   </br>
