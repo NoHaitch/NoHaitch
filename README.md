@@ -100,5 +100,5 @@ No activity tracked
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoHaitch&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoHaitch&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false&theme=tokyo-night" border-radius="15">
 </div>
