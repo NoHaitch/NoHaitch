@@ -1,12 +1,10 @@
 
-![Banner](https://github.com/NoHaitch/NoHaitch/assets/72493275/701d0056-50cd-4bff-9a67-f1252806fb59)
-
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Francisco call me Ciko 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm Francisco, call me Ciko 
 <br /> 
 
 ### 👨🏻‍💻 &nbsp;About Me
