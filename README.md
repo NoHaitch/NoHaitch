@@ -38,7 +38,7 @@ C++           51 mins         ▒░░░░░░░░░░░░░░░�
 <div align="center">
   <a href="https://github.com/NoHaitch">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=Pengkom_2022" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=12&hide=jupyter%20notebook" />
   </a>
 
   <a href="https://www.linkedin.com/in/francisco-trianto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francisco%20Trianto-blue?style=flat-square&logo=linkedin"></a>
