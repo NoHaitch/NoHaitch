@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 04 June 2025
+From: 10 November 2024 - To: 05 June 2025
 
-Total Time: 228 hrs 19 mins
+Total Time: 232 hrs 22 mins
 
-TypeScript          82 hrs 57 mins  █████████░░░░░░░░░░░░░░░░   35.78 %
-Python              68 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-Rust                13 hrs 58 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Text                10 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-MDX                 7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+TypeScript          85 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.19 %
+Python              68 hrs 38 mins  ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Rust                13 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Text                10 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+MDX                 7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
