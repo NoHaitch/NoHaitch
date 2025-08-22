@@ -9,12 +9,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and amazing solutions of real life problems.
+- 🤔 &nbsp; Passionate about modern tech, from AI development to robust system architecture.
 - 🎓 &nbsp; Informatics Engineering at Bandung Institute of Technology, Indonesia
-- 💼 &nbsp; Undegraduate looking for experience
-- 🌱 &nbsp; Learning to become a fullstack dev with high interest in AI and Cyber Sec.
-- ✍️ &nbsp; Pursuing Photography and Game Dev as hobbies/side hustles.
+- 💼 &nbsp; Software Engineer with a big-picture view of how systems work, from the database to the user interface.
+- 🌱 &nbsp; Deepening my expertise in AI and Cyber Security, with a focus on building secure and scalable systems.
 
+   
 
 <br/>
 
