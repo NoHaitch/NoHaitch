@@ -40,7 +40,7 @@ PHP                                15 hrs 37 mins  ▓░░░░░░░░�
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=12&hide=jupyter%20notebook" />
   </a>
-  <img height=200 alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=NoHaitch&theme=tokyonight">
+  <img height=200 alt="GitHub Streak" src="https://github-readme-streak-stats-nine-phi.vercel.app?user=NoHaitch&theme=tokyonight">
 
   <a href="https://www.linkedin.com/in/francisco-trianto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francisco%20Trianto-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/francisco.rftb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-francisco.rftb-blue?style=flat-square&logo=instagram"></a>
