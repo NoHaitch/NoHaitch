@@ -9,10 +9,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Passionate about modern tech, from AI development to robust system architecture.
+- 🤔 &nbsp; Passionate about modern tech, from AI models to robust system architecture.
 - 🎓 &nbsp; Informatics Engineering at Bandung Institute of Technology, Indonesia
 - 💼 &nbsp; Software Engineer with a big-picture view of how systems work, from the database to the user interface.
-- 🌱 &nbsp; Deepening my expertise in AI and Cyber Security, with a focus on building secure and scalable systems.
+- 🌱 &nbsp; Deepening my expertise in Systems Architecture, AI, and Cyber Security, with a focus on building secure and scalable systems.
 
    
 
