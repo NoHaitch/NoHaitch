@@ -21,14 +21,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 31 March 2026
+From: 10 November 2024 - To: 01 April 2026
 
-Total Time: 727 hrs 30 mins
+Total Time: 728 hrs 13 mins
 
-TypeScript                         205 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.54 %
-TeX                                111 hrs 33 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Vue.js                             111 hrs 6 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-Python                             88 hrs 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+TypeScript                         205 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 %
+TeX                                112 hrs 16 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Vue.js                             111 hrs 6 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Python                             88 hrs 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
 Text                               21 hrs 54 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
