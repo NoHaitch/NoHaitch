@@ -19,3 +19,4 @@ jobs:
         with:
           comment_tag_name: BLOG-POSTS
           feed_list: "https://medium.com/feed/@franciscotrianto"
+          max_post_count: "5"

@@ -15,6 +15,7 @@
 - 🎓 Informatics Engineering at Bandung Institute of Technology
 - ✉️ You can contact me at [franciscotrianto@gmail.com](mailto:franciscotrianto@gmail.com)
 - 🧠 Systems Architecture, AI, and Cyber Security, with a focus on building secure and scalable systems.
+- 📝 Check out my stories on [Medium](https://medium.com/@franciscotrianto) where I occasionally share my thoughts and learnings!
 
 #### 🔗 Connect With Me
 
@@ -127,11 +128,12 @@ Text                               34 hrs 30 mins        █░░░░░░�
 <details>
     <summary><b>� Latest Medium Blog Posts</b></summary>
     <br />
-    
-    <!-- BLOG-POSTS:START -->
+
+<!-- BLOG-POSTS:START -->
+
 - [When Silence Isn’t Neutral: Rebuilding Trust in How We Judge Science](https://medium.com/@franciscotrianto/when-silence-isnt-neutral-rebuilding-trust-in-how-we-judge-science-ebcfa5fd6fc7?source=rss-75ac8f163792------2)
 <!-- BLOG-POSTS:END -->
-    
+
 </details>
 
 <br />
