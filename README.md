@@ -140,8 +140,8 @@ Text                               34 hrs 30 mins        █░░░░░░�
     <br />
     <div align="center">
       <a href="https://github.com/NoHaitch">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=12&hide=jupyter%20notebook" />
+        <img height=200 src="https://github-stats-extended.vercel.app/api?username=NoHaitch&theme=tokyonight&show_icons=true" />
+        <img height=200 src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoHaitch&theme=tokyonight&layout=compact&langs_count=12&hide=jupyter%20notebook" />
       </a>
       <br/>
       <img height=200 alt="GitHub Streak" src="https://github-readme-streak-stats-nine-phi.vercel.app?user=NoHaitch&theme=tokyonight">
