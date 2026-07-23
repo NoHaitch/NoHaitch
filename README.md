@@ -157,7 +157,11 @@ Text                               34 hrs 30 mins        █░░░░░░�
     <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
     <p align="center">
       <a href="https://github.com/NoHaitch">
-        <img alt="GitHub Trophies" src="./trophy.svg" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-orcin-iota.vercel.app/?username=NoHaitch&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-orcin-iota.vercel.app/?username=NoHaitch&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=tokyonight">
+          <img alt="GitHub Trophies" src="https://github-profile-trophy-orcin-iota.vercel.app/?username=NoHaitch&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+        </picture>
       </a>
     </p>
 </details>
