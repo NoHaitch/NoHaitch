@@ -8,6 +8,8 @@ on:
 jobs:
   generate-trophy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,8 +18,13 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: NoHaitch
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          no-background: true
+          no-frame: true
+          margin-width: 20
+          margin-height: 20
 
       - name: Commit and Push
         run: |
