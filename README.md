@@ -130,7 +130,6 @@ Text                               34 hrs 34 mins        █░░░░░░�
     <br />
 
 <!-- BLOG-POSTS:START -->
-
 - [When Silence Isn’t Neutral: Rebuilding Trust in How We Judge Science](https://medium.com/@franciscotrianto/when-silence-isnt-neutral-rebuilding-trust-in-how-we-judge-science-ebcfa5fd6fc7?source=rss-75ac8f163792------2)
 <!-- BLOG-POSTS:END -->
 
