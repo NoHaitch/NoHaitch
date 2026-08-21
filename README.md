@@ -53,7 +53,7 @@ I am currently focusing my specialty in **Cyber Security**, **AI & Data Science*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 18 August 2026
+From: 10 November 2024 - To: 19 August 2026
 
 Total Time: 917 hrs 58 mins
 
