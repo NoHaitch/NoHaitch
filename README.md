@@ -53,15 +53,15 @@ I am currently focusing my specialty in **Cyber Security**, **AI & Data Science*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 11 September 2026
+From: 10 November 2024 - To: 12 September 2026
 
-Total Time: 919 hrs 51 mins
+Total Time: 922 hrs 43 mins
 
-TeX                                259 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 %
-TypeScript                         214 hrs 39 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-Vue.js                             111 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Python                             88 hrs 35 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Text                               35 hrs 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+TeX                                259 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 %
+TypeScript                         215 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Vue.js                             111 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Python                             88 hrs 35 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Text                               35 hrs 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
